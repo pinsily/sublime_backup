@@ -1,0 +1,7 @@
+{ 
+"cmd": ["python", "-u", "$file"], 
+"path": "C:\\Users\\pinsily\\Anaconda3",
+"file_regex": "^[ ]File \"(…?)\", line ([0-9]*)", 
+"selector": "source.python" 
+}
+
